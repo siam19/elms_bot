@@ -1,7 +1,7 @@
 
-eLMS Telegram Bot for UIU
+# eLMS Telegram Bot for UIU
 
-Bot Link - t.me/uiu_elms_bot
+Bot Link - (t.me/uiu_elms_bot)[t.me/uiu_elms_bot]
 
 This bot sends any updates to your elms couse pages directly to your inbox.
 Never (again) miss an assignment just bc you forgot to check elms.
